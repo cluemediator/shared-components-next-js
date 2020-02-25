@@ -1,0 +1,27 @@
+{
+  "name": "navigate-between-pages-nextjs",
+  "version": "1.0.0",
+  "description": "Example of the navigation between pages in Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluemediator/navigate-between-pages-nextjs.git"
+  },
+  "keywords": [],
+  "author": "Clue Mediator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cluemediator/navigate-between-pages-nextjs/issues"
+  },
+  "homepage": "https://github.com/cluemediator/navigate-between-pages-nextjs#readme",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
